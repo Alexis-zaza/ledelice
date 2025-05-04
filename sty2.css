@@ -1,0 +1,147 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: url(2.jpg);
+  
+}
+header{
+  align-items: center;
+  padding: 20px  40px;
+  height: auto;
+  align-items: center;
+  display: flex;
+  background: transparent;
+}
+body{
+  width: 100%;
+  height: 85vh;
+}
+section{
+  height: 70vh;
+  background: transparent;
+}
+h1{
+  font-size: 2rem;
+  color: beige;
+  background: transparent;
+  position: relative;
+}
+.logo{
+  border-radius: 60px;
+  width:73px;
+  height:70px;
+}
+.image{
+  border-image:none;
+  width: 20%;
+  height: 15%;
+  border-radius: 50%;
+}
+.menu{
+  margin-left: 40%;
+  font-size: 5.5rem;
+  margin-bottom: 5%;
+  color: brown;
+  background-color: transparent;
+}
+.image2{
+  border-image:none;
+  width: 20%;
+  height: 15%;
+  border-radius: 50%;
+  float: right;
+}
+.bo{
+  display: grid;
+  margin-left: 8%;
+  background: transparent;
+}
+div{
+  display: grid;
+  background: transparent;
+  
+}
+.MenuE{
+  grid-column: 2;
+  grid-row: 1;
+  margin-top: 5%;
+  font-size: 1.7rem;
+  background: transparent;
+  color: antiquewhite;
+}
+.MenuS{
+  grid-column: 1;
+  grid-row: 1;
+  margin-top: 5%;
+  font-size: 1.7rem;
+  background: transparent;
+  color: antiquewhite;
+}
+.MenuD{
+  grid-column: 1;
+  grid-row: 2;
+  margin-top: 18%;
+  font-size: 1.7rem;
+  background: transparent;
+  color: antiquewhite;
+}
+.MenuDe{
+  grid-column: 2;
+  grid-row: 2;
+  margin-top: 18%;
+  font-size: 1.7rem;
+  background: transparent;
+  color: antiquewhite;
+}
+.livraisons{
+  margin-left: 40%;
+  grid: none;
+  font-size: 1.5rem;
+  background: transparent;
+}
+
+p{
+  background: transparent;
+  font-weight: bold;
+}
+h1,h2, h3, h4{
+  background: transparent;
+  font-size: 2rem;
+}
+.but{
+  width: 15%;
+  height: 5%;
+  margin-left: 20%;
+}
+button a{
+  text-decoration: none;
+  color: azure;
+}
+button{
+  
+  font-size: 1.8rem;
+}
+@media (max-width: 768px) {
+  header {
+    padding: 20px 40px;
+  }
+  h1, h2, h3, h4{
+  background: transparent;
+  font-size: 1rem;
+  }
+  p {
+    font-size:0.7rem;
+  }
+  .logo {
+    width: 70px;
+    height: 70px;
+  }
+  button{
+  
+  font-size: 1rem;
+}
+  .menu{
+    font-size: 1rem;
+  }
+}
