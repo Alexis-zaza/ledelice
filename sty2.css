@@ -22,32 +22,32 @@ section{
   background: transparent;
 }
 h1{
-  font-size: 2rem;
+  font-size: 1.6rem;
   color: beige;
   background: transparent;
   position: relative;
 }
 .logo{
   border-radius: 60px;
-  width:73px;
-  height:70px;
+  width:60px;
+  height:60px;
 }
 .image{
   border-image:none;
-  width: 20%;
+  width: 15%;
   height: 15%;
   border-radius: 50%;
 }
 .menu{
   margin-left: 40%;
-  font-size: 5.5rem;
+  font-size: 4.5rem;
   margin-bottom: 5%;
   color: brown;
   background-color: transparent;
 }
 .image2{
   border-image:none;
-  width: 20%;
+  width: 15%;
   height: 15%;
   border-radius: 50%;
   float: right;
@@ -66,7 +66,7 @@ div{
   grid-column: 2;
   grid-row: 1;
   margin-top: 5%;
-  font-size: 1.7rem;
+  font-size: 1.4rem;
   background: transparent;
   color: antiquewhite;
 }
@@ -74,7 +74,7 @@ div{
   grid-column: 1;
   grid-row: 1;
   margin-top: 5%;
-  font-size: 1.7rem;
+  font-size: 1.4rem;
   background: transparent;
   color: antiquewhite;
 }
@@ -82,7 +82,7 @@ div{
   grid-column: 1;
   grid-row: 2;
   margin-top: 18%;
-  font-size: 1.7rem;
+  font-size: 1.4rem;
   background: transparent;
   color: antiquewhite;
 }
@@ -90,14 +90,14 @@ div{
   grid-column: 2;
   grid-row: 2;
   margin-top: 18%;
-  font-size: 1.7rem;
+  font-size: 1.4rem;
   background: transparent;
   color: antiquewhite;
 }
 .livraisons{
   margin-left: 40%;
   grid: none;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   background: transparent;
 }
 
@@ -107,7 +107,7 @@ p{
 }
 h1,h2, h3, h4{
   background: transparent;
-  font-size: 2rem;
+  font-size: 1.6rem;
 }
 .but{
   width: 15%;
@@ -120,7 +120,7 @@ button a{
 }
 button{
   
-  font-size: 1.8rem;
+  font-size: 1.3rem;
 }
 @media (max-width: 768px) {
   header {
