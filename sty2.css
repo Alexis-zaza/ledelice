@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   background-image: url(2.jpg);
+  background-position: fixed;
   
 }
 header{
@@ -16,7 +17,7 @@ body{
   height: 100vh;
 }
 section{
-  height: 70vh;
+  
   background: transparent;
 }
 h1{
