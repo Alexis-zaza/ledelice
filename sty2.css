@@ -79,7 +79,7 @@ div{
 .MenuD{
   grid-column: 1;
   grid-row: 2;
-  margin-top: 15%;
+  margin-top: 5%;
   font-size: 1.4rem;
   background: transparent;
   color: antiquewhite;
@@ -87,7 +87,7 @@ div{
 .MenuDe{
   grid-column: 2;
   grid-row: 2;
-  margin-top: 15%;
+  margin-top: 5%;
   font-size: 1.4rem;
   background: transparent;
   color: antiquewhite;
@@ -97,7 +97,7 @@ div{
   grid: none;
   font-size: 1.3rem;
   background: transparent;
-  margin-top: 30px;
+  margin-top:-30px;
 }
 
 p{
@@ -112,7 +112,7 @@ h1,h2, h3, h4{
   width: 15%;
   height: 5%;
   margin-left: 20%;
-  margin-top:40px
+  margin-top:-40px
 }
 button a{
   text-decoration: none;
