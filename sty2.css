@@ -6,16 +6,14 @@
   
 }
 header{
-  align-items: center;
   padding: 20px  40px;
-  height: auto;
   align-items: center;
   display: flex;
   background: transparent;
 }
 body{
   width: 100%;
-  height: 85vh;
+  height: 100vh;
 }
 section{
   height: 70vh;
@@ -36,12 +34,12 @@ h1{
   border-image:none;
   width: 15%;
   height: 15%;
-  border-radius: 50%;
+  border-radius: 30px;
 }
 .menu{
   margin-left: 40%;
   font-size: 4.5rem;
-  margin-bottom: 5%;
+  margin-bottom: 3%;
   color: brown;
   background-color: transparent;
 }
@@ -49,7 +47,7 @@ h1{
   border-image:none;
   width: 15%;
   height: 15%;
-  border-radius: 50%;
+  border-radius: 30px;
   float: right;
 }
 .bo{
@@ -65,7 +63,7 @@ div{
 .MenuE{
   grid-column: 2;
   grid-row: 1;
-  margin-top: 5%;
+  margin-top: 3%;
   font-size: 1.4rem;
   background: transparent;
   color: antiquewhite;
@@ -73,7 +71,7 @@ div{
 .MenuS{
   grid-column: 1;
   grid-row: 1;
-  margin-top: 5%;
+  margin-top: 3%;
   font-size: 1.4rem;
   background: transparent;
   color: antiquewhite;
@@ -81,7 +79,7 @@ div{
 .MenuD{
   grid-column: 1;
   grid-row: 2;
-  margin-top: 18%;
+  margin-top: 15%;
   font-size: 1.4rem;
   background: transparent;
   color: antiquewhite;
@@ -89,7 +87,7 @@ div{
 .MenuDe{
   grid-column: 2;
   grid-row: 2;
-  margin-top: 18%;
+  margin-top: 15%;
   font-size: 1.4rem;
   background: transparent;
   color: antiquewhite;
@@ -99,6 +97,7 @@ div{
   grid: none;
   font-size: 1.3rem;
   background: transparent;
+  margin-top: 30px;
 }
 
 p{
@@ -113,6 +112,7 @@ h1,h2, h3, h4{
   width: 15%;
   height: 5%;
   margin-left: 20%;
+  margin-top:40px
 }
 button a{
   text-decoration: none;
