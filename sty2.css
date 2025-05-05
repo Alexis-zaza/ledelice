@@ -98,7 +98,7 @@ div{
   grid: none;
   font-size: 1.3rem;
   background: transparent;
-  margin-top:-30px;
+  
 }
 
 p{
@@ -113,7 +113,7 @@ h1,h2, h3, h4{
   width: 15%;
   height: 5%;
   margin-left: 20%;
-  margin-top:-40px
+  
 }
 button a{
   text-decoration: none;
